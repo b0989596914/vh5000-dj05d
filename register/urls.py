@@ -5,3 +5,5 @@ urlpatterns = [
     path('',views.index,name = 'index'),
     path('show/',views.show_apply,name='show'),
 ]
+
+# test
